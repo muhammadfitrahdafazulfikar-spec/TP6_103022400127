@@ -1,0 +1,15 @@
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\bin\Debug\net10.0\TP6.exe
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\bin\Debug\net10.0\TP6.deps.json
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\bin\Debug\net10.0\TP6.runtimeconfig.json
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\bin\Debug\net10.0\TP6.dll
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\bin\Debug\net10.0\TP6.pdb
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\obj\Debug\net10.0\TP6.GeneratedMSBuildEditorConfig.editorconfig
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\obj\Debug\net10.0\TP6.AssemblyInfoInputs.cache
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\obj\Debug\net10.0\TP6.AssemblyInfo.cs
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\obj\Debug\net10.0\TP6.csproj.CoreCompileInputs.cache
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\obj\Debug\net10.0\TP6.sourcelink.json
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\obj\Debug\net10.0\TP6.dll
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\obj\Debug\net10.0\refint\TP6.dll
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\obj\Debug\net10.0\TP6.pdb
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\obj\Debug\net10.0\TP6.genruntimeconfig.cache
+B:\Daffa\kampus\Semester 4\KPL\TP6\TP6\TP6\obj\Debug\net10.0\ref\TP6.dll
